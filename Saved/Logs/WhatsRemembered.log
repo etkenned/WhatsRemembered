@@ -1,9 +1,17 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 ﻿Log file open, 11/16/20 08:26:16
 LogInit: Display: Running engine for game: WhatsRemembered
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.138768
+=======
+﻿Log file open, 11/10/20 22:45:04
+LogInit: Display: Running engine for game: WhatsRemembered
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.212886
+>>>>>>> parent of 7ca8404... 11/15
 =======
 ﻿Log file open, 11/10/20 22:45:04
 LogInit: Display: Running engine for game: WhatsRemembered
@@ -204,6 +212,7 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< HEAD
 <<<<<<< HEAD
 [2020.11.16-16.26.16:853][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.11.16-16.26.16:853][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
@@ -1385,6 +1394,8 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.16-16.30.49:339][511]LogExit: Exiting.
 [2020.11.16-16.30.49:352][511]Log file closed, 11/16/20 08:30:49
 =======
+=======
+>>>>>>> parent of 7ca8404... 11/15
 [2020.11.11-06.45.04:474][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2020.11.11-06.45.04:474][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2020.11.11-06.45.04:474][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal Projects/WhatsRemembered/Saved/Config/Windows/Engine.ini]
@@ -2172,4 +2183,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.11.11-06.51.36:737][687]LogSlate: Took 0.000318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
 [2020.11.11-06.51.36:822][688]LogPlayLevel: Display: Destroying online subsystem :Context_6
 [2020.11.11-06.51.38:008][699]LogSlate: Window 'Message Log' being destroyed
+<<<<<<< HEAD
+>>>>>>> parent of 7ca8404... 11/15
+=======
 >>>>>>> parent of 7ca8404... 11/15
